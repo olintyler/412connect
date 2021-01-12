@@ -30,7 +30,7 @@ SECRET_KEY = '4z89f@0)9w(h-1ae@d1m*66r4nl8&ovf1&#0)0)lf-fy8wl^m*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.412connect.org','localhost','127.0.0.1']
 
 
 # Application definition
