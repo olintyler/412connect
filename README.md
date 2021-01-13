@@ -1,4 +1,4 @@
-# 412connect
+# Project 412connect
 git clone https://github.com/CAASI-G2A/412connect.git
 
 # Windows virtual env
