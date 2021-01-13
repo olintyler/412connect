@@ -44,7 +44,7 @@ class Directory():
 if __name__ == '__main__':
     pd.set_option('display.max_columns', None)
 
-    instance = Directory('../static/app/csv/blackbusinesses-gmapspull-with-category.csv')
+    instance = Directory('../static/csv/blackbusinesses-gmapspull-with-category.csv')
     # filter = [('Category', 'Food'), ('Category', 'Hair Care'), ('Category', 'Shopping')]
     filter = ''
     instance.get_data(filter)
